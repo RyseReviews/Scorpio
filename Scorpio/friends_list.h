@@ -16,11 +16,10 @@ namespace Scorpio
 			Allow = true;
 		}
 
-		static LPVOID NumberOfFriendsWhenAccountCreated(uintptr_t Number, string Name, uintptr_t AccountID_Hidden, uintptr_t Online, string SkinImg_ID)
+		static LPVOID NumberOfFriendsWhenAccountCreated(uintptr_t Number, string Name, uintptr_t Online, string SkinImg_ID)
 		{
 			Number = 1;
 			Name = "Ryse";
-			AccountID_Hidden = true;
 			Online = false;
 			SkinImg_ID = "CID_034_Athena_Commando_F_Medieval";
 		}
