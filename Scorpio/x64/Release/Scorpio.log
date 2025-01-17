@@ -1,0 +1,65 @@
+﻿  dllmain.cpp
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(40,19): warning C4805: '==': unsafe mix of type 'uintptr_t' and type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(42,34): warning C4474: 'printf' : too many arguments passed for format string
+  (compiling source file 'dllmain.cpp')
+      C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(42,34):
+      placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(46,25): warning C4805: '==': unsafe mix of type 'uintptr_t' and type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(48,35): warning C4474: 'printf' : too many arguments passed for format string
+  (compiling source file 'dllmain.cpp')
+      C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(48,35):
+      placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(52,24): warning C4805: '==': unsafe mix of type 'uintptr_t' and type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\framework.h(67,16): warning C4091: 'typedef ': ignored on left of 'EasyAntiCheatSystem' when no variable is declared
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\CustomFunctions.h(13,18): warning C4805: '==': unsafe mix of type 'uintptr_t' and type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(43,18): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(44,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(45,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(46,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(47,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(48,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(49,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(50,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(51,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(52,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(53,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(54,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(55,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(56,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(57,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(58,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(59,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(60,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(61,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(62,14): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(64,18): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(66,13): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(67,13): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(68,13): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(70,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(72,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(73,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(74,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(75,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(76,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(77,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(78,11): warning C4551: function call missing argument list
+C:\Users\peyto\Desktop\Scorpio\Scorpio\dllmain.cpp(79,11): warning C4551: function call missing argument list
+  Generating code
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Scorpio.vcxproj -> C:\Users\peyto\Desktop\Scorpio\x64\Release\Scorpio.dll
